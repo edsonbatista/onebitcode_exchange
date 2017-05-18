@@ -7,7 +7,7 @@
 
 ## About Project
 
-This simple app convert currencies.
+This simple app convert currencies...
 
 ## [Click and open the project](https://one-exchange.herokuapp.com/)
 
