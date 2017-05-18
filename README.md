@@ -5,7 +5,7 @@
 ![rails](https://img.shields.io/badge/Rails-5.1.0-red.svg)
 ![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 
-## Sobre o projeto
+## About Project
 
 This simple app convert currencies.
 
