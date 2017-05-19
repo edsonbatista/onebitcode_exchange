@@ -4273,3 +4273,12 @@ Processing by HomeController#exchange as JSON
 Completed 200 OK in 461ms (Views: 0.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 172.19.0.1 at 2017-05-19 01:42:18 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (2.7ms)
+  Rendered home/index.html.erb within layouts/application (210.0ms)
+Completed 200 OK in 7128ms (Views: 7071.8ms | ActiveRecord: 0.0ms)
+
+
