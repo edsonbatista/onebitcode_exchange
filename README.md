@@ -9,7 +9,7 @@
 
 This simple app convert currencies...
 
-## [Click and open the project](https://one-exchange.herokuapp.com/)
+## [Click and open the project](http://onebitcode-exchange-bsb.herokuapp.com)
 
 ![Onebitcode_ Exchange](https://raw.githubusercontent.com/cheesepaulo/OneExchange/master/app/assets/images/screenshot.png)
 
