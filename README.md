@@ -11,7 +11,7 @@ This simple app convert currencies...
 
 ## [Click and open the project](http://onebitcode-exchange-bsb.herokuapp.com)
 
-![Onebitcode_ Exchange](https://raw.githubusercontent.com/cheesepaulo/OneExchange/master/app/assets/images/screenshot.png)
+![Onebitcode_ Exchange](https://raw.githubusercontent.com/edsonbatista/onebitcode_exchange/master/app/assets/images/screenshot.png)
 
 
 # Dependencies
