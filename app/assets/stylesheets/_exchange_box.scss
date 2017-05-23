@@ -3,7 +3,6 @@
     border: 0;
     .card-header{
       background-color: #878d99;
-      border-radius: 10;
       color: white;
       font-weight: 700;
     }
@@ -16,12 +15,11 @@
       .btn-exchange{
         background-color: #5bc0de;
         border-color: #5bc0de;
-        border-radius: 10;
       }
     }
   }
 }
-.switcher {
+.change_coin {
   text-align: center;
   margin: 15px;
   cursor: pointer;

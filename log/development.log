@@ -4291,3 +4291,341 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 7143ms (Views: 7062.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 172.19.0.1 at 2017-05-19 02:30:35 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (4.0ms)
+  Rendered home/index.html.erb within layouts/application (61.7ms)
+Completed 200 OK in 12695ms (Views: 12634.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-19 02:30:50 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as */*
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (2.5ms)
+  Rendered home/index.html.erb within layouts/application (153.5ms)
+Completed 200 OK in 892ms (Views: 668.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-19 02:31:30 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (2.8ms)
+  Rendered home/index.html.erb within layouts/application (34.7ms)
+Completed 200 OK in 6243ms (Views: 6165.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-19 02:32:13 +0000
+Started GET "/" for 172.19.0.1 at 2017-05-19 02:32:13 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (8.4ms)
+  Rendered home/index.html.erb within layouts/application (117.8ms)
+  Rendered shared/_exchange_box.html.erb (3.1ms)
+  Rendered home/index.html.erb within layouts/application (106.3ms)
+Completed 200 OK in 1416ms (Views: 1336.5ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1509ms (Views: 1378.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-19 02:32:14 +0000
+Started GET "/" for 172.19.0.1 at 2017-05-19 02:32:14 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (11.2ms)
+  Rendered home/index.html.erb within layouts/application (116.7ms)
+  Rendered shared/_exchange_box.html.erb (9.5ms)
+  Rendered home/index.html.erb within layouts/application (113.6ms)
+Completed 200 OK in 1227ms (Views: 1070.6ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1146ms (Views: 1054.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:38:06 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (3.3ms)
+  Rendered home/index.html.erb within layouts/application (181.4ms)
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:38:54 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (9.1ms)
+  Rendered home/index.html.erb within layouts/application (273.5ms)
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:38:57 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (6.7ms)
+  Rendered home/index.html.erb within layouts/application (78.1ms)
+Completed 200 OK in 3731ms (Views: 3610.4ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 49475ms (Views: 49373.4ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 2097ms (Views: 1677.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:40:53 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (1.6ms)
+  Rendered home/index.html.erb within layouts/application (55.2ms)
+Completed 200 OK in 2304ms (Views: 2257.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:41:39 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (45.6ms)
+  Rendered home/index.html.erb within layouts/application (138.5ms)
+Completed 200 OK in 4165ms (Views: 4098.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:46:19 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (10.1ms)
+  Rendered home/index.html.erb within layouts/application (65.5ms)
+Completed 200 OK in 6967ms (Views: 6895.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:30 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"1"}
+Completed 200 OK in 998ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:31 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"2"}
+Completed 200 OK in 610ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:32 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"3"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:32 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"4"}
+Completed 200 OK in 506ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 507ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:32 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"5"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:33 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"6"}
+Completed 200 OK in 514ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:33 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"7"}
+Completed 200 OK in 482ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 466ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:34 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"8"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:34 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"9"}
+Completed 200 OK in 463ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:34 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"10"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:35 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Completed 200 OK in 585ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"11"}
+Completed 200 OK in 465ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:46:35 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"12"}
+Completed 200 OK in 473ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 469ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:48:32 +0000
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:32 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:32 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"12"}
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"12"}
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (12.6ms)
+  Rendered home/index.html.erb within layouts/application (47.0ms)
+Completed 200 OK in 452ms (Views: 421.9ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 613ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 613ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 172.19.0.1 at 2017-05-23 01:48:41 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered shared/_exchange_box.html.erb (4.6ms)
+  Rendered home/index.html.erb within layouts/application (34.6ms)
+Completed 200 OK in 353ms (Views: 336.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:44 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"1"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:44 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"2"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:44 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Completed 200 OK in 657ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"3"}
+Completed 200 OK in 469ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 479ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:45 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"4"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:45 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"5"}
+Completed 200 OK in 474ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:45 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"6"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:46 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"7"}
+Completed 200 OK in 528ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:46 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"8"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:46 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"9"}
+Completed 200 OK in 466ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:46 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"10"}
+Completed 200 OK in 509ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:47 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"11"}
+Completed 200 OK in 512ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:47 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Completed 200 OK in 466ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"12"}
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:47 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"13"}
+Completed 200 OK in 542ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:47 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"14"}
+Completed 200 OK in 521ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 485ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 2505ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 483ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/exchange" for 172.19.0.1 at 2017-05-23 01:48:50 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#exchange as JSON
+  Parameters: {"currency"=>"BRL", "currency_destination"=>"EUR", "quantity"=>"15"}
+Completed 200 OK in 501ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+

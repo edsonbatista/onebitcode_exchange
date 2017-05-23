@@ -26,4 +26,4 @@ This simple app convert currencies...
   * docker-compose run --rm website rake db:create db:migrate
   * docker-compose up
 ```
-# onebitcode_exchange
+# onebitcode_exchange ---

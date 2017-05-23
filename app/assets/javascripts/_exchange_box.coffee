@@ -1,5 +1,5 @@
 $(document).ready ->
-  $('.switcher').click ->
+  $('.change_coin').click ->
     cur_val = $('#currency').val()
     cd_val = $('#currency_destination').val()
 
