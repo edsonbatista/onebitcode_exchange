@@ -6,6 +6,7 @@
 ![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 
 ## About Project
+```
 
 This simple app convert currencies...
 
@@ -18,7 +19,8 @@ This simple app convert currencies...
 ```
   * Fixer.io to consult currency rates..
 ```
-## Docker Download 
+## Docker Download
+```
 https://store.docker.com/editions/community/docker-ce-desktop-mac
 
 # Getting Started
@@ -28,4 +30,3 @@ https://store.docker.com/editions/community/docker-ce-desktop-mac
   * docker-compose run --rm website rake db:create db:migrate
   * docker-compose up
 ```
-# onebitcode_exchange ---
