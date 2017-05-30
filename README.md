@@ -20,11 +20,10 @@ This simple app convert currencies...
 ```
 ## Docker Download
 
-https://store.docker.com/editions/community/docker-ce-desktop-mac
+## [Docker for mac users example] (https://store.docker.com/editions/community/docker-ce-desktop-mac)
 
 # Getting Started
 ```
-  * Docker app for [mac users]
   * docker-compose build
   * docker-compose run --rm website rake db:create db:migrate
   * docker-compose up
