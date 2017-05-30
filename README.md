@@ -6,7 +6,6 @@
 ![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 
 ## About Project
-```
 
 This simple app convert currencies...
 
@@ -20,7 +19,7 @@ This simple app convert currencies...
   * Fixer.io to consult currency rates..
 ```
 ## Docker Download
-```
+``
 https://store.docker.com/editions/community/docker-ce-desktop-mac
 
 # Getting Started
