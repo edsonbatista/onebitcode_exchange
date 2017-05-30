@@ -22,7 +22,8 @@ This simple app convert currencies...
 # Getting Started
 ```
   * Docker app for [mac users]
-  * (https://store.docker.com/editions/community/docker-ce-desktop-mac)
+  ## (https://store.docker.com/editions/community/docker-ce-desktop-mac)
+  ## [Click and open the project](http://onebitcode-exchange-bsb.herokuapp.com)
   * docker-compose build
   * docker-compose run --rm website rake db:create db:migrate
   * docker-compose up
