@@ -18,7 +18,7 @@ This simple app convert currencies...
 ```
   * Fixer.io to consult currency rates..
 ```
-## Docker for mac - example 
+## Docker Download 
 https://store.docker.com/editions/community/docker-ce-desktop-mac
 
 # Getting Started
