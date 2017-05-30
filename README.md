@@ -20,7 +20,7 @@ This simple app convert currencies...
 ```
 ## Docker Download
 
-## [Docker for mac users example] (https://store.docker.com/editions/community/docker-ce-desktop-mac)
+ https://store.docker.com/editions/community/docker-ce-desktop-mac
 
 # Getting Started
 ```
