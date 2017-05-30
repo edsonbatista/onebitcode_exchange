@@ -21,7 +21,7 @@ This simple app convert currencies...
 # Docker Download
 ```
 https://store.docker.com/editions/community/docker-ce-desktop-mac
-```
+
 # Getting Started
 ```
   * Docker app for [mac users]
