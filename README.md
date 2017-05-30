@@ -16,12 +16,13 @@ This simple app convert currencies...
 
 # Dependencies
 ```
-  * Fixer.io to consult currency rates......
+  * Fixer.io to consult currency rates..
 ```
 
 # Getting Started
 ```
-  * Docker app for [mac users](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+  * Docker app for [mac users]
+  * (https://store.docker.com/editions/community/docker-ce-desktop-mac)
   * docker-compose build
   * docker-compose run --rm website rake db:create db:migrate
   * docker-compose up
